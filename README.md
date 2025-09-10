@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zohaib Ali</h1>
-<h3 align="center">A passionate Full-Stack & Mobile Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Pakistan 🇵🇰</h3>
 
 ---
 
 - 🔭 I’m currently working on **.NET applications and Angular projects**
 - 🏛️ Currently enrolled in a **Design & Architecture Bootcamp at CureMD**
-- 📱 Previously built a **Property Dealing CRM Android app** using **Kotlin** with a **.NET backend**
 - 🌱 I’m exploring **system architecture, clean code practices, and advanced design patterns**
 - 👯 I’m looking to collaborate on **enterprise-level .NET & Angular apps, AI-powered web/mobile solutions, and SaaS platforms**
-- 💬 Ask me about **ASP.NET Core MVC, Web API, Angular, React.js, Python Flask, Machine Learning, Android Kotlin, C#, C++, and JavaScript**
+- 💬 Ask me about **ASP.NET Core MVC, Web API, Angular, Machine Learning, Android Kotlin, C#,  and JavaScript**
 - 📫 Reach me at: **zohaib.khokhar4052@example.com**  
 - 📞 Phone: **+92 306 4379806**
 - ⚡ Fun fact: I bridge the gap between backend logic and stunning UI like it's magic 🧙‍♂️✨
@@ -26,8 +25,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Zohaib Khokhar" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Zohaib Khokhar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZohaibKhokhar&show_icons=true&theme=radical" alt="Zohaib Khokhar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZohaibKhokhar&theme=radical" alt="Zohaib Khokhar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZohaibKhokhar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
