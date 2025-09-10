@@ -3,11 +3,12 @@
 
 ---
 
-- 🔭 I’m currently working on **full-stack CRM systems, web APIs, and mobile apps**
-- 📱 I've built a **Property Dealing CRM Android app** using **Kotlin** with a **.NET backend**
-- 🌱 I’m currently exploring **AI integrations in apps and advanced system design**
-- 👯 I’m looking to collaborate on **AI-powered web/mobile apps, impactful open-source projects, and SaaS platforms**
-- 💬 Ask me about **ASP.NET Core MVC, Web API, React.js, Python Flask, Machine Learning, Android Kotlin, C#, C++, and JavaScript**
+- 🔭 I’m currently working on **.NET applications and Angular projects**
+- 🏛️ Currently enrolled in a **Design & Architecture Bootcamp at CureMD**
+- 📱 Previously built a **Property Dealing CRM Android app** using **Kotlin** with a **.NET backend**
+- 🌱 I’m exploring **system architecture, clean code practices, and advanced design patterns**
+- 👯 I’m looking to collaborate on **enterprise-level .NET & Angular apps, AI-powered web/mobile solutions, and SaaS platforms**
+- 💬 Ask me about **ASP.NET Core MVC, Web API, Angular, React.js, Python Flask, Machine Learning, Android Kotlin, C#, C++, and JavaScript**
 - 📫 Reach me at: **zohaib.khokhar4052@example.com**  
 - 📞 Phone: **+92 306 4379806**
 - ⚡ Fun fact: I bridge the gap between backend logic and stunning UI like it's magic 🧙‍♂️✨
@@ -17,7 +18,7 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,flask,kotlin,androidstudio,c,cpp,cs,java,mysql,dotnet,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,tailwind,nodejs,python,flask,kotlin,androidstudio,c,cpp,cs,java,mysql,dotnet,github" />
 </p>
 
 ---
